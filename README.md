@@ -1,5 +1,5 @@
 # public_pgp_key
-My public PGP key...
+pgp@eduard-damm /[.*]/ de
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
